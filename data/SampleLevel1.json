@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 129,
+    "name": "Sad Times beggining",
+    "author": "Evoxyle",
+    "creators": ["Evoxyle"],
+    "verifier": "Evoxyle",
+    "verification": "",
+    "percentToQualify": 100,
+    "video": "Required",
     "records": [
         {
             "user": "Sample_Victor_1",
