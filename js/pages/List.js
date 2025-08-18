@@ -104,10 +104,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Levels harder than 'Sad Times beggining' need video proof. (upload an unlink/public video on YouTube)
+                        Levels harder than 'Sad Times beggining' need video proof. (upload an unlisted/public video on YouTube)
                     </p>
                     <p>
-                        Any levels require photo proof.
+                        Any levels requires photo proof.
                     </p>
                     <p>
                         Follow the GDPS rules.
