@@ -1,0 +1,17 @@
+{
+    "id": 101,
+    "name": "b",
+    "author": "NimrodNagy",
+    "creators": ["NimrodNagy"],
+    "verifier": "NimrodNagy",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Evoxyle",
+            "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1405582635199365120/20B7CD1.JPG?ex=68a34ed6&is=68a1fd56&hm=29683d226eeef703a567e141d79730c6496a0002858b08e1934fa2e47695383a&",
+            "percent": 100
+        }
+    ]
+}
