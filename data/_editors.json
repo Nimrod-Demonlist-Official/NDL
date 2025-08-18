@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nimród",
+        "link": ""
     },
     {
         "role": "admin",
@@ -11,8 +11,8 @@
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Kkirbyy",
+        "link": "https://www.youtube.com/@KkirbyyGD"
     },
     {
         "role": "trial",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Kkirbyy",
+        "link": "https://www.youtube.com/@KkirbyyGD"
     }
 ]
