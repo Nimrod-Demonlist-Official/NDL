@@ -3,13 +3,13 @@
     "name": "rawrr x3",
     "author": "Kkirbyy",
     "creators": ["Kkirbyy"],
-    "verifier": "NimrodNagy",
-    "verification": "",
+    "verifier": "hints",
+    "verification": "https://youtu.be/OXkUKqtgxmU?feature=shared",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
                 {
-            "user": "hints",
+            "user": "NimrodNagy",
             "link": "none",
             "percent": 100
         }
