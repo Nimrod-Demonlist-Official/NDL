@@ -1,0 +1,16 @@
+{
+    "id": 146,
+    "name": "evil slop corridor",
+    "author": "hiints",
+    "creators": ["haiii (hiints)"],
+    "verifier": "hiints",
+    "verification": "https://youtu.be/x6Y6gvPo3s8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "NimrodNagy",
+            "link": "",
+            "percent": 55
+        }
+    ]
+}
