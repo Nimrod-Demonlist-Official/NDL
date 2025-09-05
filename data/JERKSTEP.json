@@ -7,5 +7,15 @@
     "verification": "",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Evoxyle",
+            "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1405590425124732999/20FA761.JPG?ex=68bbb9d7&is=68ba6857&hm=d56701bac1d3645b996d890bf495d0f7077e6904a77342a429dc3d4ddb2e744b&",
+            "percent": 100
+        },
+        {
+            "user": "Green727",
+            "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1412661469752983713/image.png?ex=68bbbe04&is=68ba6c84&hm=2ed123e881577ac38163441962e4cdf7d22f982632f6bbd1a121d24205ba294c&",
+            "percent": 100
+        }   
     ]
 }
