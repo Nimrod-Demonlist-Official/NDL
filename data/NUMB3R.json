@@ -6,6 +6,7 @@
     "verifier": "hiints",
     "verification": "https://youtu.be/FflhsFQrrxM",
     "percentToQualify": 100,
+    "video": required,
     "records": [
     ]
 }
