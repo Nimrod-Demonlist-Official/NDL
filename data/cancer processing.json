@@ -6,8 +6,5 @@
     "verifier": "Blotl",
     "verification": "",
     "percentToQualify": 100,
-    "records": [
-        {
-        }
-    ]
+    "records": []
 }
