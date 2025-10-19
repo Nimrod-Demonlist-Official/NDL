@@ -104,7 +104,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Levels harder than 'Blippi Harlem Shake' need video proof. (upload an unlisted/public video on YouTube)
+                        Only the current Top 1 level needs video proof. (upload an unlisted/public video on YouTube)
                     </p>
                     <p>
                         Any levels requires photo proof.
