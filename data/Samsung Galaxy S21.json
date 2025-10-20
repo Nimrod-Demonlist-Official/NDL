@@ -6,5 +6,11 @@
     "verifier": "Green727",
     "verification": "https://www.youtube.com/watch?v=rw-hzGEC5ho",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+        "user": "hiints",
+        "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1429869965594591395/image.png?ex=68f7b5ad&is=68f6642d&hm=f3254c36b3e059aae511fef3bc57d5205a06ea50359b6cd1956780621151af41&",
+        "percent": 100
+        }
+    ]
 }
