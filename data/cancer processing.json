@@ -6,5 +6,11 @@
     "verifier": "Blotl",
     "verification": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+       {
+        "user": "cheese",
+        "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1434926431682564257/Screenshot_2025-11-03_150924.png?ex=690a1ae0&is=6908c960&hm=4a6777380f7f12251f8623331155cba012dfe8416d6371a17ecd40fef687483a&",
+        "percent": 100
+        }
+    ]
 }
