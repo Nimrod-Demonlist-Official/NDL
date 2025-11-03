@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "video": "Required",
     "records": [
+        {
+        "user": "cheese",
+        "link": "https://medal.tv/games/geometry-dash/clips/lqWYSvsZqSa_TLUkj?invite=cr-MSxNOFAsMjAxNzk4MDE2&v=49",
+        "percent": 100
+        }
     ]
 }
