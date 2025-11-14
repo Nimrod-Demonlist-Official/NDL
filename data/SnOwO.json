@@ -1,0 +1,20 @@
+{
+    "id": 203,
+    "name": "SnOwO",
+    "author": "Kkirbyy",
+    "creators": ["Kkirbyy"],
+    "verifier": "Kkirbyy",
+    "verification": "",
+    "percentToQualify": 100,
+    "records": [{
+        "user": "Green727",
+        "link": "",
+        "percent": 100
+    },
+    {
+        "user": "cheese",
+        "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1438565950491459684/image.png?ex=69175871&is=691606f1&hm=379a0d52d4f42970d31719cbdc31ff7b3258198ab77dd5a37d23c7ab6b11d9c7&",
+        "percent": 100
+    }
+    ]
+}

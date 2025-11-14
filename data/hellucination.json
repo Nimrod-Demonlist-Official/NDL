@@ -6,6 +6,10 @@
     "verifier": "jesathe",
     "verification": "",
     "percentToQualify": 100,
-    "records": [
+    "records": [{
+            "user": "Green727",
+            "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1435057551203897574/image.png?ex=6917c3fe&is=6916727e&hm=9c22fc948f54cace13952d99331c27e4f788d052e561261e25138f288cd3d9a7&",
+            "percent": 100
+    }
     ]
 }
