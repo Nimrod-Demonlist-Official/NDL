@@ -7,5 +7,10 @@
     "verification": "",
     "percentToQualify": 100,
     "records": [
+               {
+        "user": "cheese",
+        "link": "https://cdn.discordapp.com/attachments/1405548292263248033/1445802092139905256/image.png?ex=699c7520&is=699b23a0&hm=1e8af8aad0f1e0aa40cf48ee0d8f71ee270d55a0ac004194f8d6ae4eb476a6b8&",
+        "percent": 100
+        }
     ]
 }
