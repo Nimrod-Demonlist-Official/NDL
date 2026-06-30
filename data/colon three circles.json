@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "video": "Required",
     "records": [
+        {
+           "user": "Jinxology",
+           "link": "https://youtu.be/JpHhEaY91YY",
+           "percent": 100
+        }
     ]
 }
